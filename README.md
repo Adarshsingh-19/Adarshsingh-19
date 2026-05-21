@@ -4,7 +4,7 @@
 <h3>A passionate Software Analysts from India</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif"
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=shanusingh530&label=Profile%20views&color=0e75b6&style=flat" alt="shanusingh530" /> 
+  <img src="https://komarev.com/ghpvc/?username=shanusingh530&label=Profile%20views&color=0e75b6&style=flat" alt="Adarsh Singh" /> 
 </p>
 
 - 🔭 I’m working on **Accounting & Data Analysis**
