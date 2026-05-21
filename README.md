@@ -15,17 +15,17 @@
 
 - 💬 Ask me about **Accounting & Data Analysis**
 
-- 📫 How to reach me **shanusinghtep@gmail.com**
+- 📫 How to reach me **adarsh19.singh98@gmail.com**
 
 - ⚡ Fun fact **I like to travel**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/shanu singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shanu singh" height="100" width="100" /></a>
-<a href="https://kaggle.com/shanusingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shanusingh" height="100" width="100" /></a>
-<a href="https://fb.com/shanu singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shanu singh" height="100" width="100" /></a>
-<a href="https://instagram.com/shanusingh_530" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shanusingh_530" height="100" width="100" /></a>
-<a href="https://www.youtube.com/c/shanusingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shanusingh" height="100" width="100" /></a>
+<a href="https://linkedin.com/in/adarsh singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adarsh singh" height="100" width="100" /></a>
+<a href="https://kaggle.com/adarshsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="adarshsingh" height="100" width="100" /></a>
+<a href="https://fb.com/adarsh singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shanu singh" height="100" width="100" /></a>
+<a href="https://instagram.com/adarsh_____19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adarsh_____19" height="100" width="100" /></a>
+<a href="https://www.youtube.com/c/adarshsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="adarshsingh" height="100" width="100" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
