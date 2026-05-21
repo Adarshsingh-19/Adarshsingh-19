@@ -1,7 +1,7 @@
 <img align="top" alt="MasterHead" width="100%" height="200" src="https://static.wixstatic.com/media/6c3893_60b02f5779ab4a239a715f41ba6a007e~mv2_d_5000_1447_s_2.gif">
 <hr>
-<h1>Hi 👋, I'm Shanu Singh</h1>
-<h3>A passionate Financial Analysts from India</h3>
+<h1>Hi 👋, I'm Adarsh Singh</h1>
+<h3>A passionate Software Analysts from India</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif"
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=shanusingh530&label=Profile%20views&color=0e75b6&style=flat" alt="shanusingh530" /> 
